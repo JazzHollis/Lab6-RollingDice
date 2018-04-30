@@ -1,0 +1,7 @@
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\bin\Debug\Lab6-RollingDice.exe.config
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\bin\Debug\Lab6-RollingDice.exe
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\bin\Debug\Lab6-RollingDice.pdb
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\obj\Debug\Lab6-RollingDice.csprojResolveAssemblyReference.cache
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\obj\Debug\Lab6-RollingDice.csproj.CoreCompileInputs.cache
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\obj\Debug\Lab6-RollingDice.exe
+C:\Users\rjkgi\source\repos\Lab6-RollingDice\Lab6-RollingDice\obj\Debug\Lab6-RollingDice.pdb
